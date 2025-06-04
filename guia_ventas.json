@@ -1,0 +1,5 @@
+{
+    "venta regular":{
+        "descripcion": "1. Verificar lo siguiente en la imagen de venta. (POS Station) ⚠️\n\n      -Tipo de cambio y fecha🪙\n      -Moneda de la venta 💵\n\n 2. Seleccionar el vendedor correcto (por venta o por articulo) 👩👨\n 3. Escanear los códigos de los articulos vendidos e importe 🛒\n 4. Presionar F2 o guardar para continuar 💾\n 5. Indica al cliente lo siguiente: ⚠️\n\n      -Importe total de su compra 💰\n      -¿Cuál sera su método de pago? 💵💳 \n     -Solicitar al cliente los valores o documentos 📄\n       -En caso de haber cambio se le entregará en efectivo MXN 💵\n 6. Click en la forma de pago indicada por el cliente (POS Station) 💳💵\n      -Ingresa el importe exacto que te entregue el cliente (en Efectivo USD límite de 250 USD por transacción).🪙\n      -Para concluir la transacción presiona F2 o Completo .✅\n\n Se imprime el ticket de la venta y entrega al cliente su comprobante🧾"
+    }
+}

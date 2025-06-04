@@ -1,0 +1,5 @@
+{
+    "Cancelación completa de ticket de venta": {
+      "descripcion": "1. En la barra de menú, selecciona **Transacción**. (Pantalla principal de ventas POS Station) 🖱️\n2. Selecciona **Nuevo, Auto Devolución**. 🔄\n3. Ingresa el número de ticket de venta, el motivo o razón, y haz click en **OK**. 🧾✏️\n4. El sistema recupera la información vendida, revisar lo siguiente: 🔍\n\n   - Artículos vendidos con signo negativo ➖\n   - Artículos de cupones o resort credit con signo positivo (en caso de haber) ➕\n   - El importe total debe ser igual al ticket de venta original 💰\n\n5. Click en **OK** para desplegar las formas de cobro. 🧾\n6. Seleccionar la misma forma de cobro del ticket de venta original (**excepto efectivo USD**) 💳🚫💵\n7. Click en **Completo** y terminar. ✅\n8. Entrega al cliente el **ticket de cancelación**. 🧾"
+    }
+}  

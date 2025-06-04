@@ -1,0 +1,8 @@
+{
+    "Apertura de jornada":{
+        "descripcion": "Para realizar la apertura de jornada sigue estos pasos 📝 \n\n 1. Abrir la aplicación POS Station (menú de inicio o escritorio) 🖥️\n 2️. Se despliega una ventana de Login, verificar lo siguiente 📰\n        -Nombre de la empresa y sucursal 🏢\n        -Estación, en jornada debe contener *No Shift Open*⚠️\n        -La fecha debe ser del dia. 📅\n 3️. Ingresar el usuario, contraseña y presionar OK 🔐\n 4️. El sistema preguntara si se desea abrir un turno 🤔\n        5. Ingresa el importe en valor de acciones(fondo fijo) y presionar ok 🛒\n 6. Se abre la pantalla principal de ventas📈\n *Importante: La apertura de jornada se realiza al inicio de cada turno*"
+    },
+    "Cierre de jornada":{
+        "descripcion": "Para realizar el cierre de jornada sigue estos pasos 📝 \n\n 1. Contar y organizar los valores recibidos por las ventas en turno. 💰\n 2️. Separar el importe del fondo fijo 💵\n 3. En la barra de menú, identifica la opción de *Jornada* (Pantalla principal de ventas POS Station) 🔎\n 4. Selecciona la opción: cierre de jornada. 🔒\n 5. En valor de acciones, captura el importe del fondo fijo. (con el que terminas el turno).💲\n  6. Dar click en la opción de completo y posteriormente Ok.✅ \n *Recuerda: Realiza el cierre de jornada al finalizar cada turno.*⚠️"
+    }
+}
