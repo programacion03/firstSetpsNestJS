@@ -134,7 +134,7 @@ bot.on('message', (msg) => {
     if (guiaSeleccionada) {
       let respuesta = guiaSeleccionada.descripcion;
       if (guiaSeleccionada.pdf) {
-        respuesta += `\n\nConsulta el PDF: ${guiaSeleccionada.pdf}`;
+        respuesta += `\n\n[Consulta el PDF](${guiaSeleccionada.pdf})`;
       }
   
       bot.sendMessage(chatId, respuesta, {
